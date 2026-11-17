@@ -1,100 +1,80 @@
 <div align="center">
 
-<!-- Banner de Topo Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B5B95&height=180&section=header&text=Leonardo%20Barbosa&fontSize=42&fontColor=ffffff&animation=twinkle" width="100%" />
+# Leonardo Barbosa
 
-<br/><br/>
+### Estudante de Desenvolvimento de Sistemas | Desenvolvimento Web
 
-### *Desenvolvedor Backend & Fullstack em formação 🚀💻*
-
-Olá! Sou Leonardo Barbosa — estudante de Desenvolvimento de Sistemas no **SENAI** focado em construir soluções web completas, aplicações escaláveis e software com arquitetura sólida. Minha missão? Transformar lógica e código limpo em aplicações eficientes que resolvem problemas reais. 🚀
-
-</div>
-
----
-
-### 💡 O que me move
-
-> *"O aprendizado é contínuo e a curiosidade é o meu combustível."*
-
-Sou um desenvolvedor focado na qualidade técnica e em boas práticas de software. Cada linha de código deve ter um propósito claro: entregar estabilidade, desempenho e facilidade de manutenção.
-
-Mais do que apenas programar, quero dominar arquitetura de software, estrutura de dados e construir sistemas preparados para crescer com eficiência. 🚀
-
----
-
-### 🛠️ Minha pilha tecnológica
-
-<div align="center">
-
-#### 🧠 Linguagens & Frameworks
+Construo projetos para transformar o aprendizado em soluções práticas. Atualmente estudo desenvolvimento web, fundamentos de programação, bancos de dados e boas práticas de engenharia de software no SENAI.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-#### 🗄️ Banco de Dados & Ferramentas
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-#### 🎯 Áreas de Atuação
-
-<p>
-  <img src="https://img.shields.io/badge/BACK--END-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FULLSTACK-6B5B95?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BANCO_DE_DADOS-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CLEAN_CODE-F7DF1E?style=for-the-badge&logoColor=black" />
+  <a href="https://www.linkedin.com/in/leonardo-barbosa-barbosa-b48194369">LinkedIn</a>
+  ·
+  <a href="mailto:leonardo.b.pereira@edu.senai.br">E-mail</a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+## Sobre mim
 
-#### 📚 [Projeto Backend Node.js](#)
-**Tecnologias:** Node.js + MySQL  
-Aplicação focada em autenticação, rotas protegidas e arquitetura em camadas.
+- Estudante de Desenvolvimento de Sistemas no **SENAI**.
+- Em constante evolução por meio de projetos, exercícios e aplicações práticas.
+- Interesse em desenvolvimento web, lógica de programação, bancos de dados e arquitetura de sistemas.
+- Busco escrever código organizado, compreender os fundamentos e construir soluções que resolvam problemas reais.
 
----
-
-#### 🐍 [Sistema de Gerenciamento em Python](#)
-**Tecnologias:** Python + SQLite + POO  
-Aplicação desenvolvida para manipulação eficiente de dados com relatórios e conexão a bancos relacionais.
-
----
-
-#### 🎓 [Projetos e Práticas SENAI](#)
-**Tecnologias:** C++ + HTML/CSS + JavaScript + SQL  
-Repositórios dedicados à consolidação de algoritmos, estruturas de dados e desenvolvimento de sistemas na prática.
-
----
-
-### 📬 Conecte-se comigo
+## Tecnologias e ferramentas
 
 <div align="center">
 
-<p>
-  <a href="https://linkedin.com/in/leonardo-barbosa-barbosa-b48194369"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/5519992032911"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="mailto:leonardo.b.pereira@edu.senai.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<br/>
+</div>
 
-<!-- Banner Rodapé Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6B5B95&height=120&section=footer&text=Desenvolvendo%20tecnologia%20com%20estrutura%20e%20prop%C3%B3sito&fontSize=22&fontColor=ffffff&animation=twinkle" width="100%" />
+> Tecnologias em estudo e prática. Este espaço será atualizado conforme novos projetos forem publicados.
+
+## Projetos em destaque
+
+### [Projetos SENAI](https://github.com/L3onardoDev/Projetos)
+
+Repositório com exercícios, atividades e projetos desenvolvidos durante o curso. Inclui o **PSOF-PetShop**, uma aplicação web acadêmica para gerenciamento e agendamento de serviços.
+
+**Tecnologias:** HTML, CSS e JavaScript.
+
+### [SmartCoffee](https://github.com/L3onardoDev/SmartCoffee)
+
+Projeto de interface web desenvolvido para praticar estruturação de páginas, estilização e organização de arquivos front-end.
+
+**Tecnologias:** HTML e CSS.
+
+### [Curso-Dev](https://github.com/L3onardoDev/Curso-Dev)
+
+Repositório de estudos que reúne conteúdos, exercícios, avaliações e exemplos desenvolvidos ao longo da formação em Desenvolvimento de Sistemas.
+
+**Conteúdos:** fundamentos de JavaScript, exercícios de programação e organização de atividades por módulos.
+
+## Atualmente
+
+- Aprofundando fundamentos de JavaScript e desenvolvimento web.
+- Praticando a criação de interfaces responsivas e projetos organizados.
+- Estudando novas tecnologias para evoluir da base acadêmica para aplicações completas.
+
+<div align="center">
+
+---
+
+### Obrigado pela visita
+
+<a href="https://github.com/L3onardoDev?tab=repositories">Veja meus repositórios</a> e acompanhe minha evolução como desenvolvedor.
 
 </div>
